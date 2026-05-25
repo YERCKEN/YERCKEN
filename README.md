@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=YERCKEN)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=YERCKEN)](https://git.io/typing-svg)
 
 </div>
 
@@ -62,15 +62,10 @@ Outside of code, I'm into art — it influences the way I think about design and
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yercken&theme=dark-aura&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yercken&theme=sunset-gradient&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yercken&theme=onedark&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
